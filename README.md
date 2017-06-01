@@ -1,3 +1,2 @@
 # linghu
-private
 
